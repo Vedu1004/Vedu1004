@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Trigarth Systamagic as SDE1<br>🌱 I’m currently learning AI/ML and building AI chatbot using langchain and langgraph<br>⚡ Fun fact - more into sports and gym
+🔭 I’m currently working at Trigarth Systamagic as SDE1<br>🌱 I’m currently learning AI/ML and building AI chatbot using langchain and langgraph<br>⚡ Fun fact - more into sports and gym
 
 
 ## 🌐 Socials:
